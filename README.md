@@ -1,25 +1,28 @@
 
-# Jogo_Python
+# Jogo 2D feito em Python
 
-.
-.
-.
+## Sobre o projeto
+O projeto do jogo foi feito por três alunos do **IF Sudeste MG - Campus Rio Pomba**, sendo eles: **Eu(Heitor Pereira Pinto), Natan de Souza Oliveira, João Victor Lana**. O jogo foi um trabalho escolar do 
+**Curso Técnico Integrado em Informática**, onde tinhamos que elaborar um jogo e apresentá-los aos professores da disciplina de Algoritmos(**Bianca Portes de Castro e Lucas Grassano Lattari**). A ideia do trabalho, era um jogo
+simples, apenas com textos, mas a gente quis fazer um jogo mais elaborado, com gráficos e tudo mais, então fizemos o jogo em 2D **"As Aventuras de Cleiton"**.
 
-## Sobre os autores
+## Sobre o jogo
+O jogo se baseia na **"Odisseia"** de Homero, onde **Cleiton** tenta voltar para sua terra natal Errijota, mas antes de embarcar, Cleiton discute com o Rei dos Mares, **Poseidon**, e enfrenta várias aventuras durante 
+aproxidamente 20 anos até chegar em sua terra natal **Errijota**.
 
-Este jogo foi criado por um trio, composto por mim, @heitorpereira21, e João Victor Lana, outro integrante da turma que ajudou a desenvolver partes de edições e textos.
-O objetivo era criar um jogo somente em Python para um trabalho de escola, no qual nos aprofundamos e fizemos um projeto avançado, resultando em um jogo 2D estilo RPG e Story Mode.
+## Bibliotecas utilizadas
+Para a construção do jogo em python, utilizamos as seguintes bibliotecas:
 
-## Sobre o Jogo
+- **Pygame:** Utilizamos o pygame para basicamente construir toda a interface gráfica e música do jogo, desde o menu ao fim.
 
-O jogo se baseia em uma famosa obra de Homero, a Odisseia, porém com algumas modificações. De forma resumida, é um personagem de origem carioca cujo objetivo é voltar para casa,
-e para isso, ele precisa passar por várias aventuras.
+- **Webbrowser:** Utilizamos o Webbrowser para a exibição de todas as cutscenes do jogo.
 
-.
+- **Random:** Utilizamos o Random para o sorteio dos efeitos sonoros do Ciclope.
 
-.
+- **Math:** Utilizamos o Math para fazer o Ciclope seguir o Cleiton para tentar matá-lo.
 
- 
-====>
+## Observação:
 
-![creditos](https://github.com/natsouzax/jogo_python/assets/148584798/4372211e-e9c9-4a9c-971a-1875a4b5c22a)
+- O jogo não tem o intuito de lucrar com o projeto, foi apenas um trabalho acadêmico no qual gostamos muito e decidimos compartilhar ele aqui no GitHub.
+
+### Espero que gostem do projeto!!!
