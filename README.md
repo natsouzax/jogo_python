@@ -2,7 +2,7 @@
 # Jogo 2D feito em Python
 
 ## Sobre o projeto
-O projeto do jogo foi feito por três alunos do **IF Sudeste MG - Campus Rio Pomba**, sendo eles: **Eu(Heitor Pereira Pinto), Natan de Souza Oliveira, João Victor Lana**. O jogo foi um trabalho escolar do 
+O projeto do jogo foi feito por três alunos do **IF Sudeste MG - Campus Rio Pomba**, sendo eles: **Heitor Pereira Pinto, Natan de Souza Oliveira, João Victor Lana**. O jogo foi um trabalho escolar do 
 **Curso Técnico Integrado em Informática**, onde tinhamos que elaborar um jogo e apresentá-los aos professores da disciplina de Algoritmos(**Bianca Portes de Castro e Lucas Grassano Lattari**). A ideia do trabalho, era um jogo
 simples, apenas com textos, mas a gente quis fazer um jogo mais elaborado, com gráficos e tudo mais, então fizemos o jogo em 2D **"As Aventuras de Cleiton"**.
 
